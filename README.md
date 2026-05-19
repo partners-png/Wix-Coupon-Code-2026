@@ -182,6 +182,7 @@ Open an issue if a deal stops working or pricing changes — we verify and updat
 - 👉 [Hostinger VPS Coupon 2026](https://github.com/partners-png/Hostinger-VPS-Coupon-Code) — KVM VPS for developers & AI agents
 - 👉 [Hostinger Horizons Coupon 2026](https://github.com/partners-png/Hostinger-Horizons-Coupon-Code) — AI no-code web app builder
 - 👉 [Hostinger Website Builder Coupon 2026](https://github.com/partners-png/Hostinger-Website-Builder-Coupon-Code) — drag-and-drop site builder
+- 👉 [All No-Code Discount Codes 2026](https://github.com/partners-png/No-Code-Discount-Codes-2026) — every code in one place
 
 ---
 
