@@ -176,8 +176,8 @@ Open an issue if a deal stops working or pricing changes — we verify and updat
 
 ## More Discount Codes
 
-- 👉 [Base44 Coupon Code 2026](https://github.com/partners-png/Base44-Coupon-Code-2026) — Base44 AI app builder
-- 👉 [Wix Coupon Code 2026](https://github.com/partners-png/Wix-Coupon-Code-2026) — Wix website builder (Base44's parent company)
+- 👉 [Base44 Coupon Code 2026](https://github.com/partners-png/Base44-Coupon-Code-2026) — AI no-code app builder (acquired by Wix)
+- 👉 [Base44 Agent Coupon Code 2026](https://github.com/partners-png/Base44-Agent-Coupon-Code-2026) — AI Superagents platform
 - 👉 [Hostinger Coupon Codes 2026](https://github.com/partners-png/Hostinger-Coupon-Codes-2026) — VPS, Website Builder & Horizons
 - 👉 [Hostinger VPS Coupon 2026](https://github.com/partners-png/Hostinger-VPS-Coupon-Code) — KVM VPS for developers & AI agents
 - 👉 [Hostinger Horizons Coupon 2026](https://github.com/partners-png/Hostinger-Horizons-Coupon-Code) — AI no-code web app builder
